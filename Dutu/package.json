@@ -13,7 +13,7 @@
     "react-native-camera-kit": "^8.0.0",
     "react-native-elements": "^1.1.0",
     "react-native-gesture-handler": "^1.2.1",
-    "react-native-sqlite-storage": "^3.3.10",
+    "react-native-sqlite-storage": "^3.3.11",
     "react-native-vector-icons": "^6.4.2",
     "react-navigation": "^3.11.0",
     "react-web-elements": "^1.0.0"
